@@ -1,0 +1,9 @@
+# .NET build files
+/bin/
+/obj/
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+*.nuget
